@@ -166,10 +166,11 @@ Make sure the backend is running on port 8000 before starting the frontend.
 
 ## Team
 
+- Mohit Patil · 202301040272
 - Parimal Ahire · 202301040067
 - Atharva Suryawanshi · 202301040283
 - Rajveersinh Kher · 202301040233
-- Mohit Patil · 202301040272
+
 
 Guide: Dr. Sunita Barve
 MIT Academy of Engineering, Pune
